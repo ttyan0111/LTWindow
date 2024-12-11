@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Yan\\source\\repos\\LTWINDOW_\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|c:\\users\\yan\\source\\repos\\ltwindow_\\ltwindow_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|solutionrelative:ltwindow_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|c:\\users\\yan\\source\\repos\\ltwindow_\\ltwindow_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|solutionrelative:ltwindow_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|c:\\users\\yan\\source\\repos\\ltwindow_\\ltwindow_\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|solutionrelative:ltwindow_\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,18 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQL.cs",
+              "DocumentMoniker": "C:\\Users\\Yan\\source\\repos\\LTWINDOW_\\LTWINDOW_\\SQL.cs",
+              "RelativeDocumentMoniker": "LTWINDOW_\\SQL.cs",
+              "ToolTip": "C:\\Users\\Yan\\source\\repos\\LTWINDOW_\\LTWINDOW_\\SQL.cs",
+              "RelativeToolTip": "LTWINDOW_\\SQL.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv2EAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:35:39.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Yan\\source\\repos\\LTWINDOW_\\LTWINDOW_\\Form1.cs",
+              "RelativeDocumentMoniker": "LTWINDOW_\\Form1.cs",
+              "ToolTip": "C:\\Users\\Yan\\source\\repos\\LTWINDOW_\\LTWINDOW_\\Form1.cs",
+              "RelativeToolTip": "LTWINDOW_\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:12:54.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Yan\\source\\repos\\LTWINDOW_\\LTWINDOW_\\Form1.cs",
               "RelativeDocumentMoniker": "LTWINDOW_\\Form1.cs",
               "ToolTip": "C:\\Users\\Yan\\source\\repos\\LTWINDOW_\\LTWINDOW_\\Form1.cs [Design]",
               "RelativeToolTip": "LTWINDOW_\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T13:50:09.467Z",
+              "WhenOpened": "2024-12-11T14:10:41.854Z",
               "EditorCaption": " [Design]"
             }
           ]

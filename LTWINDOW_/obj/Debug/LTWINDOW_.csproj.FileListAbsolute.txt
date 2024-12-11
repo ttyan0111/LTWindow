@@ -8,3 +8,5 @@ C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\obj\Debug\LTWINDOW_.csproj.Generat
 C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\obj\Debug\LTWINDOW_.csproj.CoreCompileInputs.cache
 C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\obj\Debug\LTWINDOW_.exe
 C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\obj\Debug\LTWINDOW_.pdb
+C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\bin\Debug\Guna.UI2.dll
+C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\obj\Debug\LTWINDOW_.csproj.Up2Date
