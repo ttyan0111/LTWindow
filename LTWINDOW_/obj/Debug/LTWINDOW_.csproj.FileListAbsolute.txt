@@ -1,0 +1,10 @@
+C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\bin\Debug\LTWINDOW_.exe.config
+C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\bin\Debug\LTWINDOW_.exe
+C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\bin\Debug\LTWINDOW_.pdb
+C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\obj\Debug\LTWINDOW_.csproj.AssemblyReference.cache
+C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\obj\Debug\LTWINDOW_.Form1.resources
+C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\obj\Debug\LTWINDOW_.Properties.Resources.resources
+C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\obj\Debug\LTWINDOW_.csproj.GenerateResource.cache
+C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\obj\Debug\LTWINDOW_.csproj.CoreCompileInputs.cache
+C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\obj\Debug\LTWINDOW_.exe
+C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\obj\Debug\LTWINDOW_.pdb
