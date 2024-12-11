@@ -1,18 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Yan\\source\\repos\\LTWINDOW_\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\project winform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|c:\\users\\yan\\source\\repos\\ltwindow_\\ltwindow_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|solutionrelative:ltwindow_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|c:\\users\\admin\\source\\repos\\project winform\\ltwindow_\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|solutionrelative:ltwindow_\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|c:\\users\\yan\\source\\repos\\ltwindow_\\ltwindow_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|C:\\Users\\ADMIN\\source\\repos\\project winform\\ltwindow_\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|solutionrelative:ltwindow_\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|C:\\Users\\ADMIN\\source\\repos\\project winform\\ltwindow_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|solutionrelative:ltwindow_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|c:\\users\\yan\\source\\repos\\ltwindow_\\ltwindow_\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|C:\\Users\\ADMIN\\source\\repos\\project winform\\ltwindow_\\listtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|solutionrelative:ltwindow_\\listtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|C:\\Users\\ADMIN\\source\\repos\\project winform\\ltwindow_\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|solutionrelative:ltwindow_\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|C:\\Users\\ADMIN\\source\\repos\\project winform\\ltwindow_\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|solutionrelative:ltwindow_\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|C:\\Users\\ADMIN\\source\\repos\\project winform\\ltwindow_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|solutionrelative:ltwindow_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|c:\\users\\admin\\source\\repos\\project winform\\ltwindow_\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|solutionrelative:ltwindow_\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|C:\\Users\\ADMIN\\source\\repos\\project winform\\ltwindow_\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|solutionrelative:ltwindow_\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|C:\\Users\\ADMIN\\source\\repos\\project winform\\ltwindow_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA86AF9-6774-4403-89B5-B564DF050657}|LTWINDOW_\\LTWINDOW_.csproj|solutionrelative:ltwindow_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +50,178 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\Program.cs",
+              "RelativeDocumentMoniker": "LTWINDOW_\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\Program.cs",
+              "RelativeToolTip": "LTWINDOW_\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:51:14.251Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\Login.cs",
+              "RelativeDocumentMoniker": "LTWINDOW_\\Login.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\Login.cs [Design]",
+              "RelativeToolTip": "LTWINDOW_\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:15:56.66Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\ListTaiKhoan.cs",
+              "RelativeDocumentMoniker": "LTWINDOW_\\ListTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\ListTaiKhoan.cs",
+              "RelativeToolTip": "LTWINDOW_\\ListTaiKhoan.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwEAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:26:30.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\Form1.cs",
+              "RelativeDocumentMoniker": "LTWINDOW_\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\Form1.cs [Design]",
+              "RelativeToolTip": "LTWINDOW_\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:10:41.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\Login.cs",
+              "RelativeDocumentMoniker": "LTWINDOW_\\Login.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\Login.cs",
+              "RelativeToolTip": "LTWINDOW_\\Login.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAkwE0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:17:49.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "LTWINDOW_\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\Login.Designer.cs",
+              "RelativeToolTip": "LTWINDOW_\\Login.Designer.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAArwJUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:47:24.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "SQL.cs",
-              "DocumentMoniker": "C:\\Users\\Yan\\source\\repos\\LTWINDOW_\\LTWINDOW_\\SQL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\SQL.cs",
               "RelativeDocumentMoniker": "LTWINDOW_\\SQL.cs",
-              "ToolTip": "C:\\Users\\Yan\\source\\repos\\LTWINDOW_\\LTWINDOW_\\SQL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\SQL.cs",
               "RelativeToolTip": "LTWINDOW_\\SQL.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAADwv2EAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswH8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T15:35:39.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Yan\\source\\repos\\LTWINDOW_\\LTWINDOW_\\Form1.cs",
-              "RelativeDocumentMoniker": "LTWINDOW_\\Form1.cs",
-              "ToolTip": "C:\\Users\\Yan\\source\\repos\\LTWINDOW_\\LTWINDOW_\\Form1.cs",
-              "RelativeToolTip": "LTWINDOW_\\Form1.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAABDAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "LTWINDOW_\\TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\TaiKhoan.cs",
+              "RelativeToolTip": "LTWINDOW_\\TaiKhoan.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T14:12:54.837Z",
+              "WhenOpened": "2024-12-11T17:47:53.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Yan\\source\\repos\\LTWINDOW_\\LTWINDOW_\\Form1.cs",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\packages.config",
+              "RelativeDocumentMoniker": "LTWINDOW_\\packages.config",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\packages.config",
+              "RelativeToolTip": "LTWINDOW_\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T19:17:22.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\Form1.cs",
               "RelativeDocumentMoniker": "LTWINDOW_\\Form1.cs",
-              "ToolTip": "C:\\Users\\Yan\\source\\repos\\LTWINDOW_\\LTWINDOW_\\Form1.cs [Design]",
-              "RelativeToolTip": "LTWINDOW_\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project winform\\LTWINDOW_\\Form1.cs",
+              "RelativeToolTip": "LTWINDOW_\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T14:10:41.854Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-11T14:12:54.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 745,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 826,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 923,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

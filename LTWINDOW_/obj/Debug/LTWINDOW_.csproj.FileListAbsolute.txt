@@ -10,3 +10,16 @@ C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\obj\Debug\LTWINDOW_.exe
 C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\obj\Debug\LTWINDOW_.pdb
 C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\bin\Debug\Guna.UI2.dll
 C:\Users\Yan\source\repos\LTWINDOW_\LTWINDOW_\obj\Debug\LTWINDOW_.csproj.Up2Date
+C:\Users\ADMIN\source\repos\project winform\LTWINDOW_\bin\Debug\LTWINDOW_.exe.config
+C:\Users\ADMIN\source\repos\project winform\LTWINDOW_\bin\Debug\LTWINDOW_.exe
+C:\Users\ADMIN\source\repos\project winform\LTWINDOW_\bin\Debug\LTWINDOW_.pdb
+C:\Users\ADMIN\source\repos\project winform\LTWINDOW_\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\source\repos\project winform\LTWINDOW_\obj\Debug\LTWINDOW_.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\project winform\LTWINDOW_\obj\Debug\LTWINDOW_.Form1.resources
+C:\Users\ADMIN\source\repos\project winform\LTWINDOW_\obj\Debug\LTWINDOW_.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\project winform\LTWINDOW_\obj\Debug\LTWINDOW_.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\project winform\LTWINDOW_\obj\Debug\LTWINDOW_.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\project winform\LTWINDOW_\obj\Debug\LTWINDOW_.csproj.Up2Date
+C:\Users\ADMIN\source\repos\project winform\LTWINDOW_\obj\Debug\LTWINDOW_.exe
+C:\Users\ADMIN\source\repos\project winform\LTWINDOW_\obj\Debug\LTWINDOW_.pdb
+C:\Users\ADMIN\source\repos\project winform\LTWINDOW_\obj\Debug\LTWINDOW_.Login.resources

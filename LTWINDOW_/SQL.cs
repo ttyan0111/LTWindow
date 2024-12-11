@@ -13,7 +13,9 @@ namespace LTWINDOW_
 {
     internal class SQL
     {
-        string connectionString = "Data Source=localhost\\SQLEXPRESS;Initial Catalog=QuanLyQuanNuoc;Integrated Security=True;";
+        string connectionString = @"server=localhost;database=QuanLyQuanNuoc;integrated security=true";
+
+        //string connectionString = "Data Source=localhost\\SQLEXPRESS;Initial Catalog=QuanLyQuanNuoc;Integrated Security=True;";
         private SqlDataAdapter adapter;
         private DataTable dt;
         private SqlConnection conn;
@@ -22,6 +24,8 @@ namespace LTWINDOW_
             conn = new SqlConnection(connectionString);
         }
 
+
+        public SqlConnection Conn { get { return conn; } }
 
         // Phương thức mở kết nối
         public void OpenConnection()
@@ -121,9 +125,7 @@ namespace LTWINDOW_
         }
     }
 
-
+    
 
 }
    
-
-}
