@@ -67,7 +67,7 @@ namespace LTWINDOW_
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show(ex.Message);
+                    MessageBox.Show(ex.Message + "\nkết nỗi sql không thành công");
                 }
             }
 

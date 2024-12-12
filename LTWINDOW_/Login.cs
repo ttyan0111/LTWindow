@@ -45,7 +45,9 @@ namespace LTWINDOW_
             ltk.queryTaiKhoan(@"select NhanVien.UserName, NhanVien.Passcode from NhanVien");
             List<TaiKhoan> taiKhoans = ltk.List;
 
-
+            errorProvider1.Clear();
+            if(username.Trim() == "") errorProvider1.SetError(txtUserName, "Bạn chưa nhập tài khoản.");
+            if(passsword.Trim() == "") errorProvider1.SetError(txtPassword, "Bạn chưa nhập mật khẩu.");
             if (username.Trim() != "" && passsword.Trim() != "")
             {
                 if (taiKhoans.Count > 0)
@@ -62,14 +64,15 @@ namespace LTWINDOW_
 
                     if (check == 1)
                     {
+                        lblThongBaoInvalid.Visible = false;
                         this.Hide();
                         Form1 form = new Form1();
                         form.Show();
                     }
-                    else MessageBox.Show("Tài Khoản hoặc mật khẩu không chính xác.");
+                    else lblThongBaoInvalid.Visible = true;
                 }
             }
-            else MessageBox.Show("Bạn chưa nhập mật khẩu hoặc Tài Khoản");
+            
 
             //if (username.Trim() != "" && passsword.Trim() != "")
             //{
