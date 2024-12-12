@@ -83,6 +83,16 @@ namespace LTWINDOW_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap cộng {
+            get {
+                object obj = ResourceManager.GetObject("cộng", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap home {
             get {
                 object obj = ResourceManager.GetObject("home", resourceCulture);
@@ -96,6 +106,16 @@ namespace LTWINDOW_.Properties {
         internal static System.Drawing.Bitmap nước {
             get {
                 object obj = ResourceManager.GetObject("nước", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap trừ {
+            get {
+                object obj = ResourceManager.GetObject("trừ", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
