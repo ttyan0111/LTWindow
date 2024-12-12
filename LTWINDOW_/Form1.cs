@@ -52,6 +52,7 @@ namespace LTWINDOW_
                 series.Points.AddXY(ngay, tongTien);
             }
         }
-    
+
+       
     }
 }
