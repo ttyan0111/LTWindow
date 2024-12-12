@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -36,15 +37,18 @@
             this.button1 = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            this.lblThongBaoInvalid = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.label1.Location = new System.Drawing.Point(463, 103);
+            this.label1.Location = new System.Drawing.Point(443, 97);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(261, 32);
             this.label1.TabIndex = 0;
@@ -55,7 +59,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.label2.Location = new System.Drawing.Point(463, 164);
+            this.label2.Location = new System.Drawing.Point(443, 164);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(151, 25);
             this.label2.TabIndex = 2;
@@ -66,7 +70,7 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.label3.Location = new System.Drawing.Point(463, 217);
+            this.label3.Location = new System.Drawing.Point(443, 217);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(99, 25);
             this.label3.TabIndex = 3;
@@ -74,16 +78,16 @@
             // 
             // txtUserName
             // 
-            this.txtUserName.Location = new System.Drawing.Point(468, 192);
+            this.txtUserName.Location = new System.Drawing.Point(443, 192);
             this.txtUserName.Name = "txtUserName";
-            this.txtUserName.Size = new System.Drawing.Size(229, 22);
+            this.txtUserName.Size = new System.Drawing.Size(333, 22);
             this.txtUserName.TabIndex = 4;
             // 
             // txtPassword
             // 
-            this.txtPassword.Location = new System.Drawing.Point(468, 245);
+            this.txtPassword.Location = new System.Drawing.Point(443, 245);
             this.txtPassword.Name = "txtPassword";
-            this.txtPassword.Size = new System.Drawing.Size(229, 22);
+            this.txtPassword.Size = new System.Drawing.Size(333, 22);
             this.txtPassword.TabIndex = 5;
             this.txtPassword.UseSystemPasswordChar = true;
             // 
@@ -92,9 +96,9 @@
             this.button1.BackColor = System.Drawing.SystemColors.Highlight;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.Window;
-            this.button1.Location = new System.Drawing.Point(468, 293);
+            this.button1.Location = new System.Drawing.Point(443, 308);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(229, 34);
+            this.button1.Size = new System.Drawing.Size(333, 34);
             this.button1.TabIndex = 6;
             this.button1.Text = "Đăng Nhập";
             this.button1.UseVisualStyleBackColor = false;
@@ -120,12 +124,28 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
+            // 
+            // lblThongBaoInvalid
+            // 
+            this.lblThongBaoInvalid.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblThongBaoInvalid.ForeColor = System.Drawing.Color.Red;
+            this.lblThongBaoInvalid.Location = new System.Drawing.Point(443, 277);
+            this.lblThongBaoInvalid.Name = "lblThongBaoInvalid";
+            this.lblThongBaoInvalid.Size = new System.Drawing.Size(324, 23);
+            this.lblThongBaoInvalid.TabIndex = 7;
+            this.lblThongBaoInvalid.Text = "Tài khoản hoặc mật khẩu không chinh xác!";
+            this.lblThongBaoInvalid.Visible = false;
+            // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.ClientSize = new System.Drawing.Size(779, 450);
+            this.ClientSize = new System.Drawing.Size(824, 450);
+            this.Controls.Add(this.lblThongBaoInvalid);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtPassword);
             this.Controls.Add(this.txtUserName);
@@ -134,9 +154,8 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.panel1);
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(797, 497);
-            this.MinimizeBox = false;
-            this.MinimumSize = new System.Drawing.Size(797, 497);
+            this.MaximumSize = new System.Drawing.Size(842, 497);
+            this.MinimumSize = new System.Drawing.Size(842, 497);
             this.Name = "Login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Đăng Nhập Hệ Thống";
@@ -144,6 +163,7 @@
             this.Load += new System.EventHandler(this.Login_Load);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -159,5 +179,7 @@
         private System.Windows.Forms.TextBox txtPassword;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
+        private System.Windows.Forms.Label lblThongBaoInvalid;
     }
 }
